@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @franpautt27
-- 👀 I’m interested in Data Science projects
-- 🌱 I’m currently learning about Machine learning and Software developement
-- 💞️ I’m looking to collaborate on Data decision making
+- 👀 I’m interested in Web Programming projects
+- 🌱 I’m currently learning about Frontend developement
+- 💞️ I’m looking to collaborate in order to apply my knowledge
 - 📫 How to reach me: franpautt@gmail.com
 
 <!---
